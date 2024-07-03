@@ -100,9 +100,12 @@ cd api
 npm start
 # ou
 yarn start
+```
 
 ### Executando o Front-end
+```sh
 cd web
 npm start
 # ou
 yarn start
+```
