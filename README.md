@@ -63,7 +63,9 @@ Este desafio requer conhecimentos adicionais além dos abordados em aula, demand
 
 ## Estrutura do Repositório
 ├── api/ # Código-fonte do Back-end (Node.js)
+
 ├── web/ # Código-fonte do Front-end (React.js)
+
 └── README.md # Documentação do Projeto
 
 
