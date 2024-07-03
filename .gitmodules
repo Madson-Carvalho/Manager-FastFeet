@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/Madson-Carvalho/Back-End-FastFeet.git
+[submodule "web"]
+	path = web
+	url = https://github.com/Madson-Carvalho/Front-End-FastFeet.git
